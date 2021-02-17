@@ -1,0 +1,1 @@
+An example app in r3f - click lights to move them around.
