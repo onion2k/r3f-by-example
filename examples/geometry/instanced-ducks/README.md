@@ -1,3 +1,10 @@
+# Instanced Ducks
+
+A grid of instanced gltf model ducks. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/basic/boilerplate)
+
+## Code
+
+```js
 import * as THREE from "three";
 import React, { Suspense, useRef } from "react";
 import ReactDOM from "react-dom";
@@ -57,3 +64,8 @@ const App = () => {
 };
 
 ReactDOM.render(<App />, document.getElementById("root"));
+```
+
+## Screenshot
+
+![Ducks](screenshot.webp "Ducks")
