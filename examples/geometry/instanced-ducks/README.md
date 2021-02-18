@@ -1,6 +1,6 @@
 # Instanced Ducks
 
-A grid of instanced gltf model ducks. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/basic/boilerplate)
+A grid of instanced gltf model ducks. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/geometry/instanced-ducks)
 
 ## Code
 
