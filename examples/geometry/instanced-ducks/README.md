@@ -1,3 +1,4 @@
+![react-three-fiber](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/geometry/instanced-ducks/package.json&label=react-three-fiber&query=$.dependencies['react-three-fiber']&color=green) ![@react-three/drei](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/geometry/instanced-ducks/package.json&label=@react-three/drei&query=$.dependencies['@react-three/drei']&color=green)  ![three](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/geometry/instanced-ducks/package.json&label=three&query=$.dependencies['three']&color=green)
 # Instanced Ducks
 
 A grid of instanced gltf model ducks. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/geometry/instanced-ducks)
