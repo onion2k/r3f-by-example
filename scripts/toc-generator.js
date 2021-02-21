@@ -52,9 +52,8 @@ examples.then((directories)=>{
 
   const tocTemplate = `# react-three-fiber by example
 
-## Categories
-
-${ Object.keys(categories).map((l)=>`## [${s(l)}](#${l})\n`).join('') }
+## Table of Contents
+${ Object.keys(categories).map((l)=>`- [${s(l)}](#${l})\n`).join('') }
 
 ${ links.map((l)=>l).join('') }
 

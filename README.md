@@ -1,17 +1,16 @@
 # react-three-fiber by example
 
-## Categories
-
-## [Basic](#basic)
-## [Cameras](#cameras)
-## [Effects](#effects)
-## [Geometry](#geometry)
-## [Hooks](#hooks)
-## [Lighting](#lighting)
-## [Materials](#materials)
-## [Models](#models)
-## [Other](#other)
-## [Physics](#physics)
+## Table of Contents
+- [Basic](#basic)
+- [Cameras](#cameras)
+- [Effects](#effects)
+- [Geometry](#geometry)
+- [Hooks](#hooks)
+- [Lighting](#lighting)
+- [Materials](#materials)
+- [Models](#models)
+- [Other](#other)
+- [Physics](#physics)
 
 
 
