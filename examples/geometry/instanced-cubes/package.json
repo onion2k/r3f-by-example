@@ -1,7 +1,7 @@
 {
-  "name": "react",
+  "name": "instanced-cubes",
   "version": "1.0.0",
-  "description": "React example starter project",
+  "description": "Drawing lots of cubes using instancing",
   "keywords": [
     "react",
     "starter"

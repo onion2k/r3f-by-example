@@ -1,7 +1,7 @@
 {
-  "name": "postprocessing-triangular-pixelation",
+  "name": "triangular-pixelation",
   "version": "1.0.0",
-  "description": "",
+  "description": "A custom triangular pixelation shader effect",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

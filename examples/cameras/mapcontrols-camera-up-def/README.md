@@ -1,8 +1,8 @@
 ![react-three-fiber](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/cameras/mapcontrols-camera-up-def/package.json&label=react-three-fiber&query=$.dependencies['react-three-fiber']&color=green) ![react-three-fiber](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/cameras/mapcontrols-camera-up-def/package.json&label=three&query=$.dependencies['three']&color=green) ![react-three-fiber](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/cameras/mapcontrols-camera-up-def/package.json&label=@react-three/drei&query=$.dependencies['@react-three/drei']&color=green)
 
-# cameras/mapcontrols-camera-up-def
+# Map controls
 
-Description coming soon. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/cameras/mapcontrols-camera-up-def)
+Using Drei's map controls to pan around a scene. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/cameras/mapcontrols-camera-up-def)
 
 ## Screenshot
 <div align="center">

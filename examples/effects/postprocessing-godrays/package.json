@@ -1,7 +1,7 @@
 {
   "name": "godrays",
   "version": "1.0.0",
-  "description": "",
+  "description": "Creating a light-through-smoke godrays effect",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

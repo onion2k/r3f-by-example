@@ -1,7 +1,7 @@
 {
-  "name": "postprocessing-depth-of-field",
+  "name": "depth-of-field",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using postprocessing to create Depth of Field",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

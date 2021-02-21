@@ -1,8 +1,8 @@
 ![react-three-fiber](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/models/gltf-model-loader/package.json&label=react-three-fiber&query=$.dependencies['react-three-fiber']&color=green) ![react-three-fiber](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/models/gltf-model-loader/package.json&label=three&query=$.dependencies['three']&color=green) ![react-three-fiber](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/models/gltf-model-loader/package.json&label=@react-three/drei&query=$.dependencies['@react-three/drei']&color=green)
 
-# models/gltf-model-loader
+# Gltf model loader
 
-Description coming soon. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/models/gltf-model-loader)
+Loading a gltf model in an r3f scene. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/models/gltf-model-loader)
 
 ## Screenshot
 <div align="center">

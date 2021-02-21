@@ -1,7 +1,7 @@
 {
   "name": "usematcaptexture",
   "version": "1.0.0",
-  "description": "",
+  "description": "Accessing useMatcapTexture for high quality materials",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

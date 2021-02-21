@@ -1,7 +1,7 @@
 {
-  "name": "minimal-cube-example",
+  "name": "boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "A minimal boilerplate for r3f",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

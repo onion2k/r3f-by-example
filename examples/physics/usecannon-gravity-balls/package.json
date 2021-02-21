@@ -1,7 +1,7 @@
 {
   "name": "usecannon-gravity-balls",
   "version": "1.0.0",
-  "description": "",
+  "description": "Balls falling on top of each other",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

@@ -1,8 +1,8 @@
 ![react-three-fiber](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/basic/boilerplate/package.json&label=react-three-fiber&query=$.dependencies['react-three-fiber']&color=green) ![react-three-fiber](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/basic/boilerplate/package.json&label=three&query=$.dependencies['three']&color=green)
 
-# basic/boilerplate
+# Boilerplate
 
-Description coming soon. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/basic/boilerplate)
+A minimal boilerplate for r3f. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/basic/boilerplate)
 
 ## Screenshot
 <div align="center">

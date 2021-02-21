@@ -1,7 +1,7 @@
 {
   "name": "vsm-shadows",
   "version": "1.0.0",
-  "description": "",
+  "description": "High quality VSM shadow mapping",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

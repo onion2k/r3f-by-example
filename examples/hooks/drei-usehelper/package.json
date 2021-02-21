@@ -1,7 +1,7 @@
 {
   "name": "drei-usehelper",
   "version": "1.0.0",
-  "description": "",
+  "description": "Drawing helpers using the useHelper hook",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

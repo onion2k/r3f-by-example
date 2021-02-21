@@ -1,7 +1,7 @@
 {
-  "name": "emissive-bloom-postprocessing",
+  "name": "emissive-bloom-2",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using the postprocessing library to make emissive text with bloom for a glow",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

@@ -1,8 +1,8 @@
 ![react-three-fiber](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/lighting/vsm-shadows/package.json&label=react-three-fiber&query=$.dependencies['react-three-fiber']&color=green) ![react-three-fiber](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/lighting/vsm-shadows/package.json&label=three&query=$.dependencies['three']&color=green) ![react-three-fiber](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/lighting/vsm-shadows/package.json&label=@react-three/drei&query=$.dependencies['@react-three/drei']&color=green)
 
-# lighting/vsm-shadows
+# Vsm shadows
 
-Description coming soon. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/lighting/vsm-shadows)
+High quality VSM shadow mapping. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/lighting/vsm-shadows)
 
 ## Screenshot
 <div align="center">

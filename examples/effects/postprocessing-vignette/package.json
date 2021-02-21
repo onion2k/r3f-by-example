@@ -1,7 +1,7 @@
 {
   "name": "vignette",
   "version": "1.0.0",
-  "description": "",
+  "description": "A basic vignette using postprocessing",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

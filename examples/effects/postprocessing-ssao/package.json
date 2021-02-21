@@ -1,7 +1,7 @@
 {
-  "name": "ssao",
+  "name": "ssao-screenspace-ambient-occlusion",
   "version": "1.0.0",
-  "description": "",
+  "description": "Screenspace ambient occusion - shadows where objects would occlude light",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

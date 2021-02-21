@@ -1,7 +1,7 @@
 {
   "name": "html-labels",
   "version": "1.0.0",
-  "description": "",
+  "description": "Displaying HTML labels over a scene using Drei's Html component",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

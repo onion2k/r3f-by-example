@@ -1,7 +1,7 @@
 {
-  "name": "shader-material",
+  "name": "shader-material-sphere",
   "version": "1.0.0",
-  "description": "",
+  "description": "A checkerboard shader material on a sphere",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

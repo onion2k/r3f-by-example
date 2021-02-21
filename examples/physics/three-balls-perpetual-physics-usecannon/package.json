@@ -1,7 +1,7 @@
 {
-  "name": "three-balls-perpetual-physics-usecannon",
+  "name": "three-balls-perpetual-physics",
   "version": "1.0.0",
-  "description": "",
+  "description": "Three balls falling and reseting",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

@@ -1,7 +1,7 @@
 {
   "name": "reflector",
   "version": "1.0.0",
-  "description": "",
+  "description": "A basic example of the Drei reflector component",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

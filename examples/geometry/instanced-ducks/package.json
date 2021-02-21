@@ -1,7 +1,7 @@
 {
   "name": "instanced-ducks",
   "version": "1.0.0",
-  "description": "",
+  "description": "Loading a gltf model and drawing it lots of times using instancing",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

@@ -1,7 +1,7 @@
 {
   "name": "textured-sphere-with-color",
   "version": "1.0.0",
-  "description": "",
+  "description": "Combining a map with a color in a material",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

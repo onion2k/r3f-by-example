@@ -1,7 +1,7 @@
 {
   "name": "textured-sphere",
   "version": "1.0.0",
-  "description": "",
+  "description": "Applying several maps to a sphere",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

@@ -1,7 +1,7 @@
 {
   "name": "camera-shake",
   "version": "1.0.0",
-  "description": "",
+  "description": "A camera shake effect",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

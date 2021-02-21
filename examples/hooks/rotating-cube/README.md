@@ -1,8 +1,8 @@
 ![react-three-fiber](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/hooks/rotating-cube/package.json&label=react-three-fiber&query=$.dependencies['react-three-fiber']&color=green) ![react-three-fiber](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/hooks/rotating-cube/package.json&label=three&query=$.dependencies['three']&color=green)
 
-# hooks/rotating-cube
+# Rotating cube
 
-Description coming soon. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/hooks/rotating-cube)
+Rotating a cube using the useFrame hook. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/hooks/rotating-cube)
 
 ## Screenshot
 <div align="center">

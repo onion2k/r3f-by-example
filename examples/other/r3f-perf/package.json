@@ -1,7 +1,7 @@
 {
   "name": "r3f-perf",
   "version": "1.0.0",
-  "description": "",
+  "description": "An example of the r3f-perf library",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

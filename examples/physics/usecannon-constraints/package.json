@@ -1,7 +1,7 @@
 {
   "name": "usecannon-constraints",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using constaints to form a chain",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

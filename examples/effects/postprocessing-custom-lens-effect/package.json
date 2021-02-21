@@ -1,7 +1,7 @@
 {
-  "name": "postprocessing-custom-lens-effect",
+  "name": "custom-lens-effect",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using postprocessing to create a custom effect like concentric circular lenses",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

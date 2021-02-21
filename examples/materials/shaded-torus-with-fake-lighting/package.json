@@ -1,7 +1,7 @@
 {
-  "name": "shaded-torus",
+  "name": "shaded-torus-with-shadow",
   "version": "1.0.0",
-  "description": "",
+  "description": "A fake lighting shader material on a torus",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

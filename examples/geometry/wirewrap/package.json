@@ -1,7 +1,7 @@
 {
   "name": "wirewrap",
   "version": "1.0.0",
-  "description": "",
+  "description": "A tube geometry that follows the vertices of a sphere",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

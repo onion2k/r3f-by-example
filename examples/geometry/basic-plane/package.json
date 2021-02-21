@@ -1,7 +1,7 @@
 {
   "name": "basic-plane",
   "version": "1.0.0",
-  "description": "",
+  "description": "A basic plane geometry",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

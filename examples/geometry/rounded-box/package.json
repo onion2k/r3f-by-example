@@ -1,7 +1,7 @@
 {
   "name": "rounded-box",
   "version": "1.0.0",
-  "description": "",
+  "description": "Drei's rounded box geometry",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

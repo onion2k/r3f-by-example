@@ -1,7 +1,7 @@
 {
   "name": "pointer-events",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using pointer events with a mesh for mouseover and click interactions",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

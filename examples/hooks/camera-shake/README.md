@@ -1,8 +1,8 @@
 ![react-three-fiber](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/hooks/camera-shake/package.json&label=react-three-fiber&query=$.dependencies['react-three-fiber']&color=green) ![react-three-fiber](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/hooks/camera-shake/package.json&label=three&query=$.dependencies['three']&color=green) ![react-three-fiber](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/hooks/camera-shake/package.json&label=@react-three/drei&query=$.dependencies['@react-three/drei']&color=green)
 
-# hooks/camera-shake
+# Camera shake
 
-Description coming soon. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/hooks/camera-shake)
+A camera shake effect. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/hooks/camera-shake)
 
 ## Screenshot
 <div align="center">

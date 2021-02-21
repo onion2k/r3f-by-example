@@ -1,7 +1,7 @@
 {
-  "name": "react",
+  "name": "instanced-points",
   "version": "1.0.0",
-  "description": "React example starter project",
+  "description": "Drawing sprites using instanced points",
   "keywords": [
     "react",
     "starter"

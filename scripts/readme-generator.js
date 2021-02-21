@@ -33,8 +33,8 @@ examples.then((directories)=>{
     if (packageJson.dependencies['@react-three/drei']) dependencies.push('@react-three/drei')
     if (packageJson.dependencies['@react-three/postprocessing']) dependencies.push('@react-three/postprocessing')
     if (packageJson.dependencies['postprocessing']) dependencies.push('postprocessing')
-    const description = "Description coming soon";
-    const title = directoryPath;
+    const description = packageJson.description;
+    const title = packageJson.name.charAt(0).toUpperCase() + packageJson.name.slice(1).replace(/-/g, ' ');
     const code = readFileSync(dir+'/src/index.js');
     
     const badges = dependencies.map((dependency)=>{

@@ -1,7 +1,7 @@
 {
-  "name": "mapcontrols-camera-up-def",
+  "name": "map-controls",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using Drei's map controls to pan around a scene",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

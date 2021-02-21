@@ -1,7 +1,7 @@
 {
-  "name": "react",
+  "name": "gltf-model-loader",
   "version": "1.0.0",
-  "description": "React example starter project",
+  "description": "Loading a gltf model in an r3f scene",
   "keywords": [
     "react",
     "starter"

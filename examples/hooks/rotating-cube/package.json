@@ -1,7 +1,7 @@
 {
   "name": "rotating-cube",
   "version": "1.0.0",
-  "description": "",
+  "description": "Rotating a cube using the useFrame hook",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

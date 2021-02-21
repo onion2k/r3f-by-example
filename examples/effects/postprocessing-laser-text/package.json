@@ -1,7 +1,7 @@
 {
-  "name": "postprocessing-laser-text",
+  "name": "laser-text",
   "version": "1.0.0",
-  "description": "",
+  "description": "Godrays combined with Drei's Text component",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

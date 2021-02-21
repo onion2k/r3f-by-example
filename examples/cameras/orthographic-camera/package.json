@@ -1,7 +1,7 @@
 {
-  "name": "react",
+  "name": "orthographic-camera",
   "version": "1.0.0",
-  "description": "React example starter project",
+  "description": "Using an orthographic projection camera in r3f",
   "keywords": [
     "react",
     "starter"

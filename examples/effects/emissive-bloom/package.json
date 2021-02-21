@@ -1,7 +1,7 @@
 {
   "name": "emissive-bloom",
   "version": "1.0.0",
-  "description": "",
+  "description": "Adding emissive materials with bloom to create glowing text",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

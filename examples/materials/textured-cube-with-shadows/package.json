@@ -1,7 +1,7 @@
 {
   "name": "textured-cube-with-shadows",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using materials with shadows",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

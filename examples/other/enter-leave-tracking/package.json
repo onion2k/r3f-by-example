@@ -1,7 +1,7 @@
 {
   "name": "enter-leave-tracking",
   "version": "1.0.0",
-  "description": "",
+  "description": "Tracking where a pointer enters and leaves an object",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

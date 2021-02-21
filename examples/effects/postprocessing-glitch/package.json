@@ -1,7 +1,7 @@
 {
   "name": "glitch",
   "version": "1.0.0",
-  "description": "",
+  "description": "Creating a glitchy shader overlay",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

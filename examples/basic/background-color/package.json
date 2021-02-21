@@ -1,7 +1,7 @@
 {
   "name": "background-color",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using a color element to attach a background color to a scene",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

@@ -1,7 +1,7 @@
 {
   "name": "text",
   "version": "1.0.0",
-  "description": "",
+  "description": "Displaying text with Drei's Text component wrapper around Troika text",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

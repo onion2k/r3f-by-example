@@ -1,7 +1,7 @@
 {
   "name": "eskil-vignette",
   "version": "1.0.0",
-  "description": "",
+  "description": "Creating a vignette using the Eskil option in postprocessing vignette",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

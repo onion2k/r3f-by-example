@@ -1,7 +1,7 @@
 {
-  "name": "react",
+  "name": "materials",
   "version": "1.0.0",
-  "description": "React example starter project",
+  "description": "Examples of five basic material types",
   "keywords": [
     "react",
     "starter"

@@ -1,7 +1,7 @@
 {
-  "name": "react",
+  "name": "glowing-torus",
   "version": "1.0.0",
-  "description": "React example starter project",
+  "description": "A shader material glow effect",
   "keywords": [
     "react",
     "starter"

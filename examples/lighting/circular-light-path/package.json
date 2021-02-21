@@ -1,7 +1,7 @@
 {
   "name": "circular-light-path",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple light following a circular path",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

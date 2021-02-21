@@ -1,7 +1,7 @@
 {
   "name": "usecannon-constraints-click-direction",
   "version": "1.0.0",
-  "description": "",
+  "description": "Using constraints with clicking",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

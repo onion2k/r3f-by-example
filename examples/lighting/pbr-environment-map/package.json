@@ -1,7 +1,7 @@
 {
   "name": "pbr-environment-map",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lighting using environment mapping",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

@@ -1,7 +1,7 @@
 {
-  "name": "postprocessing-laser-2",
+  "name": "godrays-2",
   "version": "1.0.0",
-  "description": "",
+  "description": "Another example of godrays",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
