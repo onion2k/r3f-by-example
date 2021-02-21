@@ -15,20 +15,17 @@
 
 
 
-<a id=basic></a>
 ## Basic
 
 - [Background color](tree/develop/examples/basic/background-color)
 - [Boilerplate](tree/develop/examples/basic/boilerplate)
 
-<a id=cameras></a>
 ## Cameras
 
 - [Mapcontrols camera up def](tree/develop/examples/cameras/mapcontrols-camera-up-def)
 - [Mapcontrols screenspacepanning](tree/develop/examples/cameras/mapcontrols-screenspacepanning)
 - [Orthographic camera](tree/develop/examples/cameras/orthographic-camera)
 
-<a id=effects></a>
 ## Effects
 
 - [Emissive bloom](tree/develop/examples/effects/emissive-bloom)
@@ -45,7 +42,6 @@
 - [Postprocessing triangular pixelation](tree/develop/examples/effects/postprocessing-triangular-pixelation)
 - [Postprocessing vignette](tree/develop/examples/effects/postprocessing-vignette)
 
-<a id=geometry></a>
 ## Geometry
 
 - [Basic plane](tree/develop/examples/geometry/basic-plane)
@@ -56,14 +52,12 @@
 - [Rounded box](tree/develop/examples/geometry/rounded-box)
 - [Wirewrap](tree/develop/examples/geometry/wirewrap)
 
-<a id=hooks></a>
 ## Hooks
 
 - [Camera shake](tree/develop/examples/hooks/camera-shake)
 - [Drei usehelper](tree/develop/examples/hooks/drei-usehelper)
 - [Rotating cube](tree/develop/examples/hooks/rotating-cube)
 
-<a id=lighting></a>
 ## Lighting
 
 - [Circular light path](tree/develop/examples/lighting/circular-light-path)
@@ -71,7 +65,6 @@
 - [Three point lighting](tree/develop/examples/lighting/three-point-lighting)
 - [Vsm shadows](tree/develop/examples/lighting/vsm-shadows)
 
-<a id=materials></a>
 ## Materials
 
 - [Emissive mapping](tree/develop/examples/materials/emissive-mapping)
@@ -86,12 +79,10 @@
 - [Textured sphere with color](tree/develop/examples/materials/textured-sphere-with-color)
 - [Usematcaptexture](tree/develop/examples/materials/usematcaptexture)
 
-<a id=models></a>
 ## Models
 
 - [Gltf model loader](tree/develop/examples/models/gltf-model-loader)
 
-<a id=other></a>
 ## Other
 
 - [Enter leave tracking](tree/develop/examples/other/enter-leave-tracking)
@@ -103,7 +94,6 @@
 - [Reflector textured](tree/develop/examples/other/reflector-textured)
 - [Text](tree/develop/examples/other/text)
 
-<a id=physics></a>
 ## Physics
 
 - [Three balls perpetual physics usecannon](tree/develop/examples/physics/three-balls-perpetual-physics-usecannon)

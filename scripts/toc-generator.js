@@ -42,7 +42,7 @@ examples.then((directories)=>{
 
     Object.keys(categories).forEach((category)=>{
 
-        links.push("\n<a id="+category+"></a>\n## "+s(category)+"\n\n")
+        links.push("\n## "+s(category)+"\n\n")
 
         categories[category].forEach((link)=>{
             links.push("- ["+e(link)+"](tree/develop/examples/"+link+")\n")
