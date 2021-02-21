@@ -45,7 +45,7 @@ examples.then((directories)=>{
         links.push("\n## "+s(category)+"\n\n")
 
         categories[category].forEach((link)=>{
-            links.push("- ["+e(link)+"](tree/develop/examples/"+link+")\n")
+            links.push("- ["+e(link)+"](./tree/develop/examples/"+link+")\n")
         })
 
     })
