@@ -5,6 +5,10 @@ import { Canvas } from "react-three-fiber";
 import { OrbitControls, Stats } from "@react-three/drei";
 import "./styles.css";
 
+/**
+ * NOTE: This won't work after Three r124 because of buffergeddon.
+ */
+
 const Wirewrap = () => {
   const base = new THREE.IcosahedronGeometry(3, 7);
   const curveVertices = base.vertices.map(function (handlePos, i) {
