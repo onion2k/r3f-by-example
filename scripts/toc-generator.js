@@ -50,7 +50,7 @@ examples.then((directories)=>{
 
     })
 
-  const tocTemplate = `<a class="github-button" href="https://github.com/onion2k/r3f-by-example" data-size="large" data-show-count="true" aria-label="Star onion2k/r3f-by-example on GitHub" style="float: right;">Star</a>
+  const tocTemplate = `<div align="right"><a class="github-button" href="https://github.com/onion2k/r3f-by-example" data-size="large" data-show-count="true" aria-label="Star onion2k/r3f-by-example on GitHub">Star</a></div>
 
 # react-three-fiber by example
 
