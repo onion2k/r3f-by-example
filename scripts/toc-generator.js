@@ -50,13 +50,18 @@ examples.then((directories)=>{
 
     })
 
-  const tocTemplate = `# react-three-fiber by example
+  const tocTemplate = `<a class="github-button" href="https://github.com/onion2k/r3f-by-example" data-size="large" data-show-count="true" aria-label="Star onion2k/r3f-by-example on GitHub" style="float: right;">Star</a>
+
+# react-three-fiber by example
+
+Examples of using react-three-fiber.
 
 ## Table of Contents
 ${ Object.keys(categories).map((l)=>`- [${s(l)}](#${l})\n`).join('') }
 
 ${ links.map((l)=>l).join('') }
 
+<script async defer src="https://buttons.github.io/buttons.js"></script>
   `
   writeFileSync('INDEX.md', tocTemplate);
 

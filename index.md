@@ -1,4 +1,8 @@
+<a class="github-button" href="https://github.com/onion2k/r3f-by-example" data-size="large" data-show-count="true" aria-label="Star onion2k/r3f-by-example on GitHub" style="float: right;">Star</a>
+
 # react-three-fiber by example
+
+Examples of using react-three-fiber.
 
 ## Table of Contents
 - [Basic](#basic)
@@ -102,4 +106,5 @@
 - [Usecannon gravity balls](https://onion2k.github.io/r3f-by-example/examples/physics/usecannon-gravity-balls)
 
 
+<script async defer src="https://buttons.github.io/buttons.js"></script>
   
