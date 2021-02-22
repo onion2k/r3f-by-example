@@ -45,7 +45,7 @@ examples.then((directories)=>{
         links.push("\n## "+s(category)+"\n\n")
 
         categories[category].forEach((link)=>{
-            links.push("- ["+e(link)+"](https://github.com/onion2k/r3f-by-example/examples/"+link+")\n")
+            links.push("- ["+e(link)+"](https://onion2k.github.io/r3f-by-example/examples/"+link+")\n")
         })
 
     })
@@ -58,7 +58,7 @@ ${ Object.keys(categories).map((l)=>`- [${s(l)}](#${l})\n`).join('') }
 ${ links.map((l)=>l).join('') }
 
   `
-  writeFileSync('README.md', tocTemplate);
+  writeFileSync('INDEX.md', tocTemplate);
 
 
 //     console.log(index, dir)
