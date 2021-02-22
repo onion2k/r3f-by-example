@@ -45,7 +45,7 @@ examples.then((directories)=>{
         links.push("\n## "+s(category)+"\n\n")
 
         categories[category].forEach((link)=>{
-            links.push("- ["+e(link)+"](https://github.com/onion2k/r3f-by-example/tree/develop/examples/"+link+")\n")
+            links.push("- ["+e(link)+"](https://github.com/onion2k/r3f-by-example/examples/"+link+")\n")
         })
 
     })
