@@ -45,7 +45,8 @@ examples.then((directories)=>{
         links.push("\n## "+s(category)+"\n\n")
 
         categories[category].forEach((link)=>{
-            links.push("- ["+e(link)+"](https://onion2k.github.io/r3f-by-example/examples/"+link+")\n")
+          const packageJson = JSON.parse(readFileSync("./examples/"+link+'/package.json'));
+          links.push("- ["+e(link)+"](https://onion2k.github.io/r3f-by-example/examples/"+link+")\n\n  "+packageJson.description+"\n")
         })
 
     })
