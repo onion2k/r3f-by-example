@@ -221,4 +221,4 @@ Examples of using react-three-fiber.
 
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-  
+<script async defer src="https://onion2k.github.io/r3f-by-example/static/js/runtime-main.e9e551ef.js"></script>

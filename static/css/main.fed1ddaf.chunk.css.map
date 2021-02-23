@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,SAAU,CACV,WAAY,CACZ,YAAa,CACb,YAAa,CACb,kBACF","file":"main.fed1ddaf.chunk.css","sourcesContent":["body {\n  margin: 0;\n  padding: 0;\n  width: 100vw;\n  height: 100vh;\n  display: grid;\n  place-items: center;\n}\n"]}
