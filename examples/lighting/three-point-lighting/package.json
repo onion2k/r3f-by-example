@@ -2,6 +2,7 @@
   "name": "three-point-lighting",
   "version": "1.0.0",
   "description": "An example of three point lighting",
+  "homepage": "https://codesandbox.io/s/three-point-lighting-k36tb",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

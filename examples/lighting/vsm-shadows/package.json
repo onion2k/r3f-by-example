@@ -2,6 +2,7 @@
   "name": "vsm-shadows",
   "version": "1.0.0",
   "description": "High quality VSM shadow mapping",
+  "homepage": "https://codesandbox.io/s/vsm-shadows-npwcv",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

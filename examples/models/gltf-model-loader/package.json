@@ -2,6 +2,7 @@
   "name": "gltf-model-loader",
   "version": "1.0.0",
   "description": "Loading a gltf model in an r3f scene",
+  "homepage": "https://codesandbox.io/s/gltf-loader-ox9zh",
   "keywords": [
     "react",
     "starter"

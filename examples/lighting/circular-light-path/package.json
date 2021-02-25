@@ -2,6 +2,7 @@
   "name": "circular-light-path",
   "version": "1.0.0",
   "description": "A simple light following a circular path",
+  "homepage": "https://codesandbox.io/s/animated-lighting-zrf7x",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

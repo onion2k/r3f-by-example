@@ -2,6 +2,7 @@
   "name": "drei-usehelper",
   "version": "1.0.0",
   "description": "Drawing helpers using the useHelper hook",
+  "homepage": "https://codesandbox.io/s/usehelper-jq4bx",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -10,7 +11,7 @@
     "react-dom": "17.0.1",
     "react-scripts": "4.0.2",
     "react-three-fiber": "5.3.18",
-    "three": "0.125.2"
+    "three": "0.124.0"
   },
   "devDependencies": {
     "typescript": "3.8.3"

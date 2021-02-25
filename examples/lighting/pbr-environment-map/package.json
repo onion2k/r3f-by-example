@@ -2,6 +2,7 @@
   "name": "pbr-environment-map",
   "version": "1.0.0",
   "description": "Lighting using environment mapping",
+  "homepage": "https://codesandbox.io/s/environment-mapping-m1v9f",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

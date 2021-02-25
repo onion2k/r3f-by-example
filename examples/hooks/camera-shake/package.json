@@ -2,6 +2,7 @@
   "name": "camera-shake",
   "version": "1.0.0",
   "description": "A camera shake effect",
+  "homepage": "https://codesandbox.io/s/usecamerashake-nttvw",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

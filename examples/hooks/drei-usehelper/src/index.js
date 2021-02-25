@@ -1,8 +1,7 @@
 import React, { useRef } from "react";
 import ReactDOM from "react-dom";
 import { Canvas, useFrame } from "react-three-fiber";
-import { useHelper } from "@react-three/drei/useHelper";
-import { OrbitControls, Stats } from "@react-three/drei";
+import { OrbitControls, Stats, useHelper } from "@react-three/drei";
 import { BoxHelper } from "three";
 import { VertexNormalsHelper } from "three/examples/jsm/helpers/VertexNormalsHelper";
 import { FaceNormalsHelper } from "three/examples/jsm/helpers/FaceNormalsHelper";
