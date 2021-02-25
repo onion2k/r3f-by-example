@@ -2,6 +2,7 @@
   "name": "emissive-bloom",
   "version": "1.0.0",
   "description": "Adding emissive materials with bloom to create glowing text",
+  "homepage": "https://codesandbox.io/s/emissive-bloom-796sc",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

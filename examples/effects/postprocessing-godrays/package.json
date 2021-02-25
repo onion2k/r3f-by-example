@@ -2,6 +2,7 @@
   "name": "godrays",
   "version": "1.0.0",
   "description": "Creating a light-through-smoke godrays effect",
+  "homepage": "https://codesandbox.io/s/godrays-8nxmb",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

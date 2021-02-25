@@ -2,6 +2,7 @@
   "name": "depth-of-field",
   "version": "1.0.0",
   "description": "Using postprocessing to create Depth of Field",
+  "homepage": "https://codesandbox.io/s/depth-of-field-iw2gb",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

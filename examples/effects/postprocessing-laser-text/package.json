@@ -2,6 +2,7 @@
   "name": "laser-text",
   "version": "1.0.0",
   "description": "Godrays combined with Drei's Text component",
+  "homepage": "https://codesandbox.io/s/laser-text-9r6xl",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

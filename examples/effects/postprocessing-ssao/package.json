@@ -2,6 +2,7 @@
   "name": "ssao-screenspace-ambient-occlusion",
   "version": "1.0.0",
   "description": "Screenspace ambient occusion - shadows where objects would occlude light",
+  "homepage": "https://codesandbox.io/s/ssao-exnlt",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

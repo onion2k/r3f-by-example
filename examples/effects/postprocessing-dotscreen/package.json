@@ -2,6 +2,7 @@
   "name": "dotscreen",
   "version": "1.0.0",
   "description": "Using postprocessing to create a halftone-like dotscreen effect",
+  "homepage": "https://codesandbox.io/s/dotscreen-1vsv1",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

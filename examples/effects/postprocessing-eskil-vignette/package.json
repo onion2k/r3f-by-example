@@ -2,6 +2,7 @@
   "name": "eskil-vignette",
   "version": "1.0.0",
   "description": "Creating a vignette using the Eskil option in postprocessing vignette",
+  "homepage": "https://codesandbox.io/s/eskil-vignette-4jnnn",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

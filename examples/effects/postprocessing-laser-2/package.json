@@ -2,6 +2,7 @@
   "name": "godrays-2",
   "version": "1.0.0",
   "description": "Another example of godrays",
+  "homepage": "https://codesandbox.io/s/godrays-2-6488m",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

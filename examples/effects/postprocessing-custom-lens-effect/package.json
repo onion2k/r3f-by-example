@@ -2,6 +2,7 @@
   "name": "custom-lens-effect",
   "version": "1.0.0",
   "description": "Using postprocessing to create a custom effect like concentric circular lenses",
+  "homepage": "https://codesandbox.io/s/custom-lens-effect-kvtil",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

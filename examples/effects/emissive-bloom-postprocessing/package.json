@@ -2,6 +2,7 @@
   "name": "emissive-bloom-2",
   "version": "1.0.0",
   "description": "Using the postprocessing library to make emissive text with bloom for a glow",
+  "homepage": "https://codesandbox.io/s/emissive-bloom-2-wz46v",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

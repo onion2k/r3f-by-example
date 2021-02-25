@@ -2,6 +2,7 @@
   "name": "glitch",
   "version": "1.0.0",
   "description": "Creating a glitchy shader overlay",
+  "homepage": "https://codesandbox.io/s/glitch-rmew5",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

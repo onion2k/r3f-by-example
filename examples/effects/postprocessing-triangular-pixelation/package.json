@@ -2,6 +2,7 @@
   "name": "triangular-pixelation",
   "version": "1.0.0",
   "description": "A custom triangular pixelation shader effect",
+  "homepage": "https://codesandbox.io/s/triangular-pixelation-c7fkk",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

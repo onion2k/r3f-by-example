@@ -2,6 +2,7 @@
   "name": "vignette",
   "version": "1.0.0",
   "description": "A basic vignette using postprocessing",
+  "homepage": "https://codesandbox.io/s/vignette-dp598",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
