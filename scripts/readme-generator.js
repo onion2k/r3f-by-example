@@ -36,7 +36,9 @@ examples.then((directories)=>{
     const description = packageJson.description;
     const title = packageJson.name.charAt(0).toUpperCase() + packageJson.name.slice(1).replace(/-/g, ' ');
     const code = readFileSync(dir+'/src/index.js');
-    
+
+    const liveurl = packageJson.homepage ? packageJson.homepage.replace('/s/', '/embed/') : ""
+     
     const badges = dependencies.map((dependency)=>{
       const dependencyLabelTemplate = `![react-three-fiber](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/${directoryPath}/package.json&label=${dependency}&query=$.dependencies['${dependency}']&color=green)`
       return dependencyLabelTemplate
@@ -48,10 +50,15 @@ examples.then((directories)=>{
 
 ${description}. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/${directoryPath})
 
-## Screenshot
+## Live example
 <div align="center">
   <br>
-    Coming Soon
+  <iframe src="${liveurl}?fontsize=14&hidenavigation=1&theme=dark&view=preview"
+     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+     title="Instanced Ducks"
+     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+   ></iframe>
   <br>
 </div>
 

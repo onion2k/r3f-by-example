@@ -2,6 +2,7 @@
   "name": "instanced-ducks",
   "version": "1.0.0",
   "description": "Loading a gltf model and drawing it lots of times using instancing",
+  "homepage": "https://codesandbox.io/s/instanced-ducks-os16k",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

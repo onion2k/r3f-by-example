@@ -2,10 +2,10 @@
   "name": "background-color",
   "version": "1.0.0",
   "description": "Using a color element to attach a background color to a scene",
+  "homepage": "https://codesandbox.io/s/background-color-x9sdl",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "@react-three/drei": "3.8.6",
     "react": "17.0.0",
     "react-dom": "17.0.0",
     "react-scripts": "4.0.2",
