@@ -4,10 +4,10 @@
 
 Screenspace ambient occusion - shadows where objects would occlude light. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/effects/postprocessing-ssao)
 
-## Screenshot
+## Live example
 <div align="center">
   <br>
-    Coming Soon
+Coming Soon
   <br>
 </div>
 

@@ -4,10 +4,10 @@
 
 Adding emissive materials with bloom to create glowing text. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/effects/emissive-bloom)
 
-## Screenshot
+## Live example
 <div align="center">
   <br>
-    Coming Soon
+Coming Soon
   <br>
 </div>
 

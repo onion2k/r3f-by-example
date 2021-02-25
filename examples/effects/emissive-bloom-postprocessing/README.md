@@ -4,10 +4,10 @@
 
 Using the postprocessing library to make emissive text with bloom for a glow. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/effects/emissive-bloom-postprocessing)
 
-## Screenshot
+## Live example
 <div align="center">
   <br>
-    Coming Soon
+Coming Soon
   <br>
 </div>
 

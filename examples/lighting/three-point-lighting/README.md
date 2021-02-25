@@ -4,10 +4,10 @@
 
 An example of three point lighting. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/lighting/three-point-lighting)
 
-## Screenshot
+## Live example
 <div align="center">
   <br>
-    Coming Soon
+Coming Soon
   <br>
 </div>
 

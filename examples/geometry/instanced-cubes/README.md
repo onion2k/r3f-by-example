@@ -4,10 +4,10 @@
 
 Drawing lots of cubes using instancing. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/geometry/instanced-cubes)
 
-## Screenshot
+## Live example
 <div align="center">
   <br>
-    Coming Soon
+Coming Soon
   <br>
 </div>
 

@@ -4,10 +4,10 @@
 
 Using pointer events with a mesh for mouseover and click interactions. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/other/pointer-events)
 
-## Screenshot
+## Live example
 <div align="center">
   <br>
-    Coming Soon
+Coming Soon
   <br>
 </div>
 

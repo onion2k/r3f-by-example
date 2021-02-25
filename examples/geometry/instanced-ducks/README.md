@@ -4,10 +4,15 @@
 
 Loading a gltf model and drawing it lots of times using instancing. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/geometry/instanced-ducks)
 
-## Screenshot
+## Live example
 <div align="center">
   <br>
-
+  <iframe src="https://codesandbox.io/embed/instanced-ducks-os16k?fontsize=14&hidenavigation=1&theme=dark&view=preview"
+    style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+    title="Instanced Ducks"
+    allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+    sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+  ></iframe>
   <br>
 </div>
 

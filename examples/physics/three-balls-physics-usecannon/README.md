@@ -4,10 +4,10 @@
 
 Three balls falling down. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/physics/three-balls-physics-usecannon)
 
-## Screenshot
+## Live example
 <div align="center">
   <br>
-    Coming Soon
+Coming Soon
   <br>
 </div>
 

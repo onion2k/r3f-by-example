@@ -4,10 +4,10 @@
 
 Using postprocessing to create a custom effect like concentric circular lenses. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/effects/postprocessing-custom-lens-effect)
 
-## Screenshot
+## Live example
 <div align="center">
   <br>
-    Coming Soon
+Coming Soon
   <br>
 </div>
 

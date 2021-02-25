@@ -37,7 +37,12 @@ examples.then((directories)=>{
     const title = packageJson.name.charAt(0).toUpperCase() + packageJson.name.slice(1).replace(/-/g, ' ');
     const code = readFileSync(dir+'/src/index.js');
 
-    const liveurl = packageJson.homepage ? packageJson.homepage.replace('/s/', '/embed/') : ""
+    const embed = packageJson.homepage ? `  <iframe src="${packageJson.homepage.replace('/s/', '/embed/')}?fontsize=14&hidenavigation=1&theme=dark&view=preview"
+    style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+    title="Instanced Ducks"
+    allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+    sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+  ></iframe>` : 'Coming Soon'
      
     const badges = dependencies.map((dependency)=>{
       const dependencyLabelTemplate = `![react-three-fiber](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/onion2k/r3f-by-example/develop/examples/${directoryPath}/package.json&label=${dependency}&query=$.dependencies['${dependency}']&color=green)`
@@ -53,12 +58,7 @@ ${description}. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-examp
 ## Live example
 <div align="center">
   <br>
-  <iframe src="${liveurl}?fontsize=14&hidenavigation=1&theme=dark&view=preview"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="Instanced Ducks"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
+${embed}
   <br>
 </div>
 

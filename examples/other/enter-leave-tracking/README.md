@@ -4,10 +4,10 @@
 
 Tracking where a pointer enters and leaves an object. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/other/enter-leave-tracking)
 
-## Screenshot
+## Live example
 <div align="center">
   <br>
-    Coming Soon
+Coming Soon
   <br>
 </div>
 

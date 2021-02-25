@@ -4,10 +4,10 @@
 
 A fake lighting shader material on a torus. [Fork on Codesandbox](https://githubbox.com/onion2k/r3f-by-example/tree/develop/examples/materials/shaded-torus-with-fake-lighting)
 
-## Screenshot
+## Live example
 <div align="center">
   <br>
-    Coming Soon
+Coming Soon
   <br>
 </div>
 
