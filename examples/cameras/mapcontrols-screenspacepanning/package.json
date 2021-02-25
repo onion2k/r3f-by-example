@@ -2,6 +2,7 @@
   "name": "mapcontrols-screenspacepanning",
   "version": "1.0.0",
   "description": "Using MapControls screenspace panning to normalize mouse movements to the viewport",
+  "homepage": "https://codesandbox.io/s/mapcontrols-screenspacepanning-nm5tn",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

@@ -7,7 +7,12 @@ Using an orthographic projection camera in r3f. [Fork on Codesandbox](https://gi
 ## Live example
 <div align="center">
   <br>
-Coming Soon
+  <iframe src="https://codesandbox.io/embed/orthographic-camera-2xg1k?fontsize=14&hidenavigation=1&theme=dark&view=preview"
+    style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
+    title="Instanced Ducks"
+    allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
+    sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
+  ></iframe>
   <br>
 </div>
 

@@ -2,6 +2,7 @@
   "name": "map-controls",
   "version": "1.0.0",
   "description": "Using Drei's map controls to pan around a scene",
+  "homepage": "https://codesandbox.io/s/mapcontrols-ywu32",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

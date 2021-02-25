@@ -2,6 +2,7 @@
   "name": "boilerplate",
   "version": "1.0.0",
   "description": "A minimal boilerplate for r3f",
+  "homepage": "https://codesandbox.io/s/boilerplate-h2w36",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

@@ -2,6 +2,7 @@
   "name": "orthographic-camera",
   "version": "1.0.0",
   "description": "Using an orthographic projection camera in r3f",
+  "homepage": "https://codesandbox.io/s/orthographic-camera-2xg1k",
   "keywords": [
     "react",
     "starter"
