@@ -2,6 +2,7 @@
   "name": "wirewrap",
   "version": "1.0.0",
   "description": "A tube geometry that follows the vertices of a sphere",
+  "homepage": "https://codesandbox.io/s/wirewrap-xhthh",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

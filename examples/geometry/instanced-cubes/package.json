@@ -2,6 +2,7 @@
   "name": "instanced-cubes",
   "version": "1.0.0",
   "description": "Drawing lots of cubes using instancing",
+  "homepage": "https://codesandbox.io/s/instanced-cubes-w9zq7",
   "keywords": [
     "react",
     "starter"

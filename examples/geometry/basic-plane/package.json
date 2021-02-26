@@ -2,6 +2,7 @@
   "name": "basic-plane",
   "version": "1.0.0",
   "description": "A basic plane geometry",
+  "homepage": "https://codesandbox.io/s/basic-plane-4qln1",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

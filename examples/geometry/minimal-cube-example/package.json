@@ -1,7 +1,8 @@
 {
-  "name": "minimal-cube-example",
+  "name": "minimal-cube",
   "version": "1.0.0",
   "description": "A very minimal cube example",
+  "homepage": "https://codesandbox.io/s/minimal-cube-dqvtu",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

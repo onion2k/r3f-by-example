@@ -2,6 +2,7 @@
   "name": "basic-sphere",
   "version": "1.0.0",
   "description": "A basic sphere geometry",
+  "homepage": "https://codesandbox.io/s/basic-sphere-noojf",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

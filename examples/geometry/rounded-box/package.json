@@ -2,6 +2,7 @@
   "name": "rounded-box",
   "version": "1.0.0",
   "description": "Drei's rounded box geometry",
+  "homepage": "https://codesandbox.io/s/rounded-box-16r0k",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
