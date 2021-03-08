@@ -2,6 +2,7 @@
   "name": "usecannon-constraints-click-direction",
   "version": "1.0.0",
   "description": "Using constraints with clicking",
+  "homepage": "https://codesandbox.io/s/constraint-click-bycqz",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

@@ -2,6 +2,7 @@
   "name": "three-balls-perpetual-physics",
   "version": "1.0.0",
   "description": "Three balls falling and reseting",
+  "homepage": "https://codesandbox.io/s/three-balls-perpetual-physics-kzcg0",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

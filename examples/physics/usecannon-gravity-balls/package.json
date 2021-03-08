@@ -2,6 +2,7 @@
   "name": "usecannon-gravity-balls",
   "version": "1.0.0",
   "description": "Balls falling on top of each other",
+  "homepage": "https://codesandbox.io/s/falling-balls-pkmcr",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

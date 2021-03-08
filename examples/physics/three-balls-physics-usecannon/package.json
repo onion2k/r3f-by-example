@@ -2,6 +2,7 @@
   "name": "three-balls-physics-usecannon",
   "version": "1.0.0",
   "description": "Three balls falling down",
+  "homepage": "https://codesandbox.io/s/three-balls-dydl9",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {

@@ -2,6 +2,7 @@
   "name": "usecannon-constraints",
   "version": "1.0.0",
   "description": "Using constaints to form a chain",
+  "homepage": "https://codesandbox.io/s/constraints-swore",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
